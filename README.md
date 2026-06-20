@@ -72,6 +72,8 @@ Revenue metrics include:
 * Potential Gross Income (PGI)
 * Effective Gross Income (EGI)
 
+<img width="390" height="415" alt="Screenshot 2026-06-20 at 22 08 01" src="https://github.com/user-attachments/assets/9089da87-4e9e-48df-be07-c534c272b22d" />
+
 ---
 
 ### Step 2: Operating Cost Forecast
@@ -82,6 +84,7 @@ Estimated operating expenses include:
 * Maintenance costs
 * Land lease expenses
 * Administrative expenses
+<img width="303" height="445" alt="Screenshot 2026-06-20 at 22 08 27" src="https://github.com/user-attachments/assets/d2195fe3-f497-4951-9f46-fba5329714d4" />
 
 ---
 
@@ -113,6 +116,8 @@ Free Cash Flow to Equity (FCFE)
 ```
 
 Both approaches are used to evaluate project viability.
+
+<img width="383" height="404" alt="Screenshot 2026-06-20 at 22 09 00" src="https://github.com/user-attachments/assets/a834f326-33bd-48ea-9f2d-eb73ecb511e0" />
 
 ---
 
@@ -180,11 +185,12 @@ The project generates positive value for equity investors, with an IRR exceeding
 
 The project demonstrates strong debt repayment capacity, with cash flows comfortably covering debt obligations throughout the investment period.
 
+<img width="821" height="215" alt="Screenshot 2026-06-20 at 22 09 49" src="https://github.com/user-attachments/assets/d3b467d6-52a5-43cc-9b1e-b6b4a8b4433e" />
+
 ---
 
 ## 📈 Financial Model Structure
 
-**[INSERT IMAGE: financial_model_flow.png]**
 
 ```text
 Project Assumptions
@@ -280,8 +286,8 @@ real-estate-project-valuation/
 ├── report/
 │   └── Project_Valuation_Report.pdf
 │
-└── images/
-    └── financial_model_flow.png
+└── dashboard/
+    └── Dashboard.jsx
 ```
 
 ---
